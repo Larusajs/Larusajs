@@ -37,6 +37,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/larusa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="larusa" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=larusajs&show_icons=true&locale=en&layout=compact" alt="larusajs" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=larusajs&show_icons=true&theme=gruvbox&locale=en" alt="larusajs" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=larusajs&show_icons=true&theme=dracula&locale=en" alt="larusajs" /></p>
