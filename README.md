@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [new development team.](https://discord.gg/uF33G92BgX)
 
-- 🌱 I’m currently learning **frontend technologies.**
+- 🌱 I’m currently learning **backend technologies.**
 
-- 👯 I’m looking to collaborate on [Managaki Management & Development](https://discord.gg/uF33G92BgX)
+- 👯 I’m looking to collaborate on [Taskium Management & Development](https://discord.gg/uF33G92BgX)
 
 - 🤝 I’m looking for help with [new development team.](https://discord.gg/uF33G92BgX)
 
@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **solidity, javascript.**
 
-- 📫 How to reach me **managakidev@gmail.com**
+- 📫 How to reach me **info@taskium.dev**
 
 - 📄 Know about my experiences [http://larusajs.com](http://larusajs.com)
 
