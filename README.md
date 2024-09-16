@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Enes from Turkey.<br><br>- 🔭 I’m working as Backend Developer.<br>- 📚 I'm currently learning ML.<br>- ⚡ In my free time I write trainings that will be useful to people.</p>
+<p align="left">Hi, I’m Enes! I’m a 20-year-old backend developer from Turkey with a passion for building scalable and efficient systems.<br><br>- 🔭 I’m working as Backend Developer.<br>- 📚 I'm currently learning ML.<br>- ⚡ In my free time I write trainings that will be useful to people.</p>
 
 ###
 
