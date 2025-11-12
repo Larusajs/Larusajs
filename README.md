@@ -1,4 +1,4 @@
-![👋 Hi, my name is Enes Kutay](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+![👋 Hi, my name is Enes Kutay](https://media.discordapp.net/attachments/1106970331647840337/1438207642911772714/1500x500.jpeg?ex=69160abe&is=6914b93e&hm=699aa1dd0842575c9e0bbbfcfbbf3e4c73557b1aa7d5d227127d5535c63f170e&=&format=webp)
 
 ![Profile views](https://komarev.com/ghpvc/?username=LarusaJS&label=Profile%20views&color=0e75b6&style=flat)
 
