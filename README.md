@@ -1,4 +1,4 @@
-![👋 Hi, my name is Enes Kutay]([https://media.discordapp.net/attachments/1106970331647840337/1438207642911772714/1500x500.jpeg?ex=69160abe&is=6914b93e&hm=699aa1dd0842575c9e0bbbfcfbbf3e4c73557b1aa7d5d227127d5535c63f170e&=&format=webp](https://media.discordapp.net/attachments/1106970331647840337/1453146135421255832/Twitter_header_-_v2.png?ex=694c634c&is=694b11cc&hm=fcd329e64f791d0f38399cdefeb219205cdb84648b34dba06b57deb1212c32aa&=&format=webp&quality=lossless&width=1032&height=344))
+![👋 Hi, my name is Enes Kutay]([https://zuowbkmksmbqfuxpnitx.supabase.co/storage/v1/object/public/dsfa/about-us.png])
 
 ![Profile views](https://komarev.com/ghpvc/?username=LarusaJS&label=Profile%20views&color=0e75b6&style=flat)
 
