@@ -1,4 +1,4 @@
-<img width="48%" src="https://media.discordapp.net/attachments/1106970331647840337/1453146135421255832/Twitter_header_-_v2.png?ex=694c634c&is=694b11cc&hm=fcd329e64f791d0f38399cdefeb219205cdb84648b34dba06b57deb1212c32aa&=&format=webp&quality=lossless&width=1032&height=344" alt="GitHub top-langs Card" />
+<img src="https://media.discordapp.net/attachments/1106970331647840337/1453146135421255832/Twitter_header_-_v2.png?ex=694c634c&is=694b11cc&hm=fcd329e64f791d0f38399cdefeb219205cdb84648b34dba06b57deb1212c32aa&=&format=webp&quality=lossless&width=1032&height=344" alt="GitHub top-langs Card" />
 
 ![Profile views](https://komarev.com/ghpvc/?username=LarusaJS&label=Profile%20views&color=0e75b6&style=flat)
 
