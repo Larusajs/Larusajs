@@ -1,5 +1,3 @@
-👋 Hi, my name is Enes Kutay
-
 ![Profile views](https://komarev.com/ghpvc/?username=LarusaJS&label=Profile%20views&color=0e75b6&style=flat)
 
 <div id="toc">
