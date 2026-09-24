@@ -8,7 +8,7 @@
   <a href="https://srreal.co"><img src="https://img.shields.io/badge/srreal.co-0a0a0a?style=for-the-badge&logo=safari&logoColor=white" alt="Srreal Studio"></a>
   <a href="https://x.com/larusajs"><img src="https://img.shields.io/badge/@larusajs-0a0a0a?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
   <a href="https://instagram.com/enes.ships"><img src="https://img.shields.io/badge/@enes.ships-0a0a0a?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.linkedin.com/in/larusajs/"><img src="https://img.shields.io/badge/Enes_Kutay_Yarkan-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/larusajs/"><img src="https://img.shields.io/badge/Enes_Kutay_Yarkan-0a0a0a?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAyLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMyAyLjA2IDIuMDYgMCAwIDEgMCA0LjEzek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjczdjIwLjU0QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzNWMS43M0MyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8%2BPC9zdmc%2B" alt="LinkedIn"></a>
   <a href="https://github.com/Srreal-Studio"><img src="https://img.shields.io/badge/Srreal--Studio-0a0a0a?style=for-the-badge&logo=github&logoColor=white" alt="Srreal Studio on GitHub"></a>
 </p>
 
