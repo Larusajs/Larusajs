@@ -37,11 +37,10 @@ const enes = {
 | | Product | What it is | Status |
 |:-:|:--|:--|:--|
 | ◼ | **Locki** | iOS app | `live · App Store` |
-| ◼ | **[LovLetter](https://lovletter.co)** | Romantic time-capsule letters + AI wallpapers | `live` |
-| ◻ | **Hubrix** | In stealth | `building` |
-| ◻ | **YarnHub** | In stealth | `building` |
-| ◻ | **Torvik** | Multi-platform ecommerce analytics | `building` |
-| ◻ | **Gramo** | macOS menu bar focus app | `building` |
+| ◼ | **Seventy** | iOS app | `live · App Store` |
+| ◼ | **YarnHub** | iOS app | `live · App Store` |
+| ◻ | **Torvik** | B2B SaaS · multi-platform ecommerce analytics | `planned` |
+| ◻ | **Fitsi** | iOS app | `planned` |
 
 ## What I build at Srreal Studio
 
