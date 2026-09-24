@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none">
+  <style>
+    .sans { font-family: -apple-system, "SF Pro Display", "Inter", "Helvetica Neue", Arial, sans-serif; }
+    .mono { font-family: ui-monospace, "SF Mono", "JetBrains Mono", Menlo, Consolas, monospace; }
+    .fade { opacity: 0; animation: in .9s cubic-bezier(.2,.7,.2,1) forwards; }
+    .d1 { animation-delay: .1s } .d2 { animation-delay: .35s } .d3 { animation-delay: .6s } .d4 { animation-delay: .85s }
+    @keyframes in { from { opacity: 0; transform: translateY(10px) } to { opacity: 1; transform: none } }
+    .cursor { animation: blink 1.1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0 } }
+    .dot { animation: pulse 2.4s ease-in-out infinite; }
+    @keyframes pulse { 0%,100% { opacity: 1 } 50% { opacity: .25 } }
+  </style>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#e6e6e6" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="vignette" cx="0.5" cy="0.5" r="0.75">
+      <stop offset="0.35" stop-color="#fafafa" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fafafa" stop-opacity="1"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="360" rx="18" fill="#fafafa"/>
+  <rect width="1200" height="360" rx="18" fill="url(#grid)"/>
+  <rect width="1200" height="360" rx="18" fill="url(#vignette)"/>
+  <rect x="0.5" y="0.5" width="1199" height="359" rx="17.5" stroke="#e6e6e6"/>
+
+  <g class="mono fade d1" font-size="14" fill="#6b6b6b" letter-spacing="2">
+    <circle class="dot" cx="64" cy="66" r="4" fill="#0a0a0a"/>
+    <text x="78" y="71">SHIPPING DAILY — ANKARA, TR ⇄ WYOMING, US</text>
+    <text x="1136" y="71" text-anchor="end">EST. 2021</text>
+  </g>
+
+  <g class="fade d2">
+    <text class="sans" x="60" y="190" font-size="92" font-weight="800" letter-spacing="-4" fill="#0a0a0a">Enes Kutay Yarkan</text>
+  </g>
+
+  <g class="mono fade d3" font-size="20" fill="#6b6b6b">
+    <text x="64" y="236"><tspan fill="#0a0a0a">~/</tspan> founder @ srreal studio · ai / mobile / saas<tspan class="cursor" fill="#0a0a0a"> ▍</tspan></text>
+  </g>
+
+  <g class="mono fade d4" font-size="14" letter-spacing="2" fill="#6b6b6b">
+    <line x1="64" y1="282" x2="1136" y2="282" stroke="#e6e6e6"/>
+    <text x="64" y="314">0 → $1M ARR</text>
+    <text x="330" y="314">0 → IRONMAN 70.3</text>
+    <text x="630" y="314">BUILDING IN PUBLIC</text>
+    <text x="1136" y="314" text-anchor="end" fill="#0a0a0a">@LARUSAJS</text>
+  </g>
+</svg>
