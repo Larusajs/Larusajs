@@ -39,6 +39,7 @@ const enes = {
 | ◼ | **Locki** | iOS app | `live · App Store` |
 | ◼ | **Seventy** | iOS app | `live · App Store` |
 | ◼ | **YarnHub** | iOS app | `live · App Store` |
+| ◻ | **Adfold** | B2B web app | `in development` |
 | ◻ | **Torvik** | B2B SaaS · multi-platform ecommerce analytics | `planned` |
 | ◻ | **Fitsi** | iOS app | `planned` |
 
